@@ -1,2 +1,3 @@
-# Test-Repo
-Test Repo for the Coursera Course; Datascience Toolbox
+# Coursera course: DataScience
+## The Data Scientist’s Toolbox
+Inital repo for the course project
